@@ -54,6 +54,7 @@ const Register: React.FC<any> = ({ navigation }) => {
           placeholder="Digite sua senha"
           placeholderTextColor="#fff"
           value={password}
+          secureTextEntry
           onChangeText={(text) => setPassword(text)}
         />
 
