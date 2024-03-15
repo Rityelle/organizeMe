@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "oganizeMe",
-    "slug": "oganizeMe",
+    "name": "organizeMe",
+    "slug": "organizeMe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
